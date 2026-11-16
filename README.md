@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/harveybuenaventura">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Harvey+Buenaventura;Software+Developer;Tech+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Harvey+Buenaventura;Software+Developer" alt="Typing SVG" />
 </a>
 
 <h3>Computer Science Undergraduate & Software Developer</h3>

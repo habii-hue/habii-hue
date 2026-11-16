@@ -1,7 +1,23 @@
 <div align="center">
 
-# Harvey Buenaventura
-### Computer Science Undergraduate & Software Developer
+<style>
+  @keyframes gradientShift {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  .animated-name {
+    background: linear-gradient(270deg, #ff758c, #ff7eb3, #7928ca, #4f46e5);
+    background-size: 300% 300%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientShift 6s ease infinite;
+    font-weight: 800;
+  }
+</style>
+
+<h1 class="animated-name">Harvey Buenaventura</h1>
+<h3>Computer Science Undergraduate & Software Developer</h3>
 
 <p>
   <img src="https://img.shields.io/badge/PUP_Manila-BSCS-7a0000?style=for-the-badge&logo=codeforces&logoColor=white" alt="PUP BSCS">
@@ -28,12 +44,12 @@
 
 ### 🚀 Featured Projects
 
-* **PAUL (PUP CCIS Secretariat Tasks and Document Management System)**
-  * **Stack:** Python, Streamlit, Web Technologies
-  * **Overview:** Developed an administrative management platform for the PUP CCIS Student Council Secretariat Committee to handle task management, document tracking, and organizational workflows.
 * **MOSES (Automated Document Separator & Batch Renamer)**
   * **Stack:** Python, Streamlit, PyMuPDF, Pandas
   * **Overview:** Automated the extraction and splitting of multi-page PDFs into single-page files with automated filename sanitization, duplicate collision handling, and installment heading detection (1st, 2nd, 3rd) packaged into in-memory `io.BytesIO` ZIP archives.
+* **PAUL**
+  * **Stack:** Python, Streamlit, Web Technologies
+  * **Overview:** Engineered a high-performance PDF to Word converter featuring a custom professional UI with tabbed page selection modes. Implemented robust page controls for specific ranges and integrated autonomous multi-core scaling to accelerate the processing of large documents.
 * **Hand Gesture Recognition for OBS Studio**
   * **Stack:** Python, MediaPipe, OpenCV, OBS Studio
   * **Overview:** Developed custom real-time computer vision scripts for hand tracking and integrated them as a live virtual camera source inside OBS Studio.
@@ -52,22 +68,7 @@
 
 ---
 
-### 📈 GitHub Metrics
-
 <div align="center">
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=harveybuenaventura&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harveybuenaventura&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-  <p>📬 <strong>Email:</strong> <a href="mailto:vey5buenaventura@gmail.com">vey5buenaventura@gmail.com</a> &nbsp;|&nbsp; 📍 <strong>Location:</strong> Cavite / Manila, Philippines</p>
+  <p>📬 <strong>Email:</strong> <a href="mailto:vey5buenaventura@gmail.com">vey5buenaventura@gmail.com</a> &nbsp;|&nbsp; 📍 <strong>Location:</strong> Manila, Philippines</p>
   <em>"Automating complexity, one script at a time."</em>
 </div>

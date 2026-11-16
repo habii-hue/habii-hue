@@ -1,22 +1,9 @@
 <div align="center">
 
-<style>
-  @keyframes gradientShift {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-  .animated-name {
-    background: linear-gradient(270deg, #ff758c, #ff7eb3, #7928ca, #4f46e5);
-    background-size: 300% 300%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradientShift 6s ease infinite;
-    font-weight: 800;
-  }
-</style>
+<a href="https://github.com/harveybuenaventura">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=36&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Harvey+Buenaventura;Software+Developer;Tech+Innovator" alt="Typing SVG" />
+</a>
 
-<h1 class="animated-name">Harvey Buenaventura</h1>
 <h3>Computer Science Undergraduate & Software Developer</h3>
 
 <p>
@@ -44,16 +31,16 @@
 
 ### 🚀 Featured Projects
 
-* **MOSES (Automated Document Separator & Batch Renamer)**
+- **MOSES (Automated Document Separator & Batch Renamer)**
   * **Stack:** Python, Streamlit, PyMuPDF, Pandas
   * **Overview:** Automated the extraction and splitting of multi-page PDFs into single-page files with automated filename sanitization, duplicate collision handling, and installment heading detection (1st, 2nd, 3rd) packaged into in-memory `io.BytesIO` ZIP archives.
-* **PAUL**
+- **PAUL**
   * **Stack:** Python, Streamlit, Web Technologies
   * **Overview:** Engineered a high-performance PDF to Word converter featuring a custom professional UI with tabbed page selection modes. Implemented robust page controls for specific ranges and integrated autonomous multi-core scaling to accelerate the processing of large documents.
-* **Hand Gesture Recognition for OBS Studio**
+- **Hand Gesture Recognition for OBS Studio**
   * **Stack:** Python, MediaPipe, OpenCV, OBS Studio
   * **Overview:** Developed custom real-time computer vision scripts for hand tracking and integrated them as a live virtual camera source inside OBS Studio.
-* **IGN8.NET INC. Application Scheduler & Official Website**
+- **IGN8.NET INC. Application Scheduler & Official Website**
   * **Stack:** Python, JavaScript, HTML, CSS, Odoo Website Builder
   * **Overview:** Designed and published the corporate website via Odoo's visual editor while building a full-stack applicant tracking prototype featuring role-specific views, automated screening rules, and interview scheduling workflows.
 
@@ -61,10 +48,10 @@
 
 ### 🧭 Leadership & Organizational Service
 
-* **Secretary-General & Head of SWD Committee** | PUP College of Computer and Information Sciences Student Council *(2025–2026)*
-* **Internal Relations Resident** | AWS Cloud Club PUP *(2025–2026)*
-* **Secretariat Associate** | Google Developer Group PUP *(2025–2026)*
-* **Vice President for External Affairs** | Central Student Body *(2023–2024)*
+- **Secretary-General & Head of SWD Committee** | PUP College of Computer and Information Sciences Student Council *(2025–2026)*
+- **Internal Relations Resident** | AWS Cloud Club PUP *(2025–2026)*
+- **Secretariat Associate** | Google Developer Group PUP *(2025–2026)*
+- **Vice President for External Affairs** | Central Student Body *(2023–2024)*
 
 ---
 

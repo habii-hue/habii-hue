@@ -18,7 +18,7 @@
 
 ---
 
-### 💻 Tech Stack & Architecture
+### Tech Stack & Architecture
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,cs,r,c,cpp,html,css,git,azure,linux,mysql&perline=6" alt="Tech Stack Icons" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **MOSES (Automated Document Separator & Batch Renamer)**
   * **Stack:** Python, Streamlit, PyMuPDF, Pandas
@@ -46,7 +46,7 @@
 
 ---
 
-### 🧭 Leadership & Organizational Service
+### Leadership & Organizational Service
 
 - **Secretary-General & Head of SWD Committee** | PUP College of Computer and Information Sciences Student Council *(2025–2026)*
 - **Internal Relations Resident** | AWS Cloud Club PUP *(2025–2026)*

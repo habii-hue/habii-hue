@@ -28,24 +28,27 @@
 
 ### 🚀 Featured Projects
 
-* **MOSES (Automated Document Separator & Batch Renamer)**[cite: 2]
-  * **Stack:** Python, Streamlit, PyMuPDF, Pandas[cite: 2]
-  * **Overview:** Automated the extraction and splitting of multi-page PDFs into single-page files with automated filename sanitization, duplicate collision handling, and installment heading detection (1st, 2nd, 3rd) packaged into in-memory `io.BytesIO` ZIP archives[cite: 2].
-* **Hand Gesture Recognition for OBS Studio**[cite: 2]
-  * **Stack:** Python, MediaPipe, OpenCV, OBS Studio[cite: 2]
-  * **Overview:** Developed custom real-time computer vision scripts for hand tracking and integrated them as a live virtual camera source inside OBS Studio[cite: 2].
-* **IGN8.NET INC. Application Scheduler & Official Website**[cite: 1, 2]
-  * **Stack:** Python, JavaScript, HTML, CSS, Odoo Website Builder[cite: 1, 2]
-  * **Overview:** Designed and published the corporate website via Odoo's visual editor while building a full-stack applicant tracking prototype featuring role-specific views, automated screening rules, and interview scheduling workflows[cite: 1, 2].
+* **PAUL (PUP CCIS Secretariat Tasks and Document Management System)**
+  * **Stack:** Python, Streamlit, Web Technologies
+  * **Overview:** Developed an administrative management platform for the PUP CCIS Student Council Secretariat Committee to handle task management, document tracking, and organizational workflows.
+* **MOSES (Automated Document Separator & Batch Renamer)**
+  * **Stack:** Python, Streamlit, PyMuPDF, Pandas
+  * **Overview:** Automated the extraction and splitting of multi-page PDFs into single-page files with automated filename sanitization, duplicate collision handling, and installment heading detection (1st, 2nd, 3rd) packaged into in-memory `io.BytesIO` ZIP archives.
+* **Hand Gesture Recognition for OBS Studio**
+  * **Stack:** Python, MediaPipe, OpenCV, OBS Studio
+  * **Overview:** Developed custom real-time computer vision scripts for hand tracking and integrated them as a live virtual camera source inside OBS Studio.
+* **IGN8.NET INC. Application Scheduler & Official Website**
+  * **Stack:** Python, JavaScript, HTML, CSS, Odoo Website Builder
+  * **Overview:** Designed and published the corporate website via Odoo's visual editor while building a full-stack applicant tracking prototype featuring role-specific views, automated screening rules, and interview scheduling workflows.
 
 ---
 
 ### 🧭 Leadership & Organizational Service
 
-* **Secretary-General & Head of SWD Committee** | PUP College of Computer and Information Sciences Student Council *(2025–2026)*[cite: 2]
-* **Internal Relations Resident** | AWS Cloud Club PUP *(2025–2026)*[cite: 2]
-* **Secretariat Associate** | Google Developer Group PUP *(2025–2026)*[cite: 2]
-* **Vice President for External Affairs** | Central Student Body *(2023–2024)*[cite: 2]
+* **Secretary-General & Head of SWD Committee** | PUP College of Computer and Information Sciences Student Council *(2025–2026)*
+* **Internal Relations Resident** | AWS Cloud Club PUP *(2025–2026)*
+* **Secretariat Associate** | Google Developer Group PUP *(2025–2026)*
+* **Vice President for External Affairs** | Central Student Body *(2023–2024)*
 
 ---
 
@@ -65,6 +68,6 @@
 ---
 
 <div align="center">
-  <p>📬 <strong>Email:</strong> <a href="mailto:vey5buenaventura@gmail.com">vey5buenaventura@gmail.com</a>[cite: 1] &nbsp;|&nbsp; 📍 <strong>Location:</strong> Cavite / Manila, Philippines[cite: 1]</p>
+  <p>📬 <strong>Email:</strong> <a href="mailto:vey5buenaventura@gmail.com">vey5buenaventura@gmail.com</a> &nbsp;|&nbsp; 📍 <strong>Location:</strong> Cavite / Manila, Philippines</p>
   <em>"Automating complexity, one script at a time."</em>
 </div>

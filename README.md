@@ -21,7 +21,7 @@
 ### Tech Stack & Architecture
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cs,r,c,cpp,html,css,git,azure,linux,mysql&perline=6" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,java,r,cs,c,cpp,html,css,git,azure,linux,mysql&perline=6" alt="Tech Stack Icons" />
 </p>
 
 > **Core Languages:** Python, Java, C, C++, C#, R, SQL, HTML, CSS  
